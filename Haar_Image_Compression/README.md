@@ -100,6 +100,7 @@ RMSE = sqrt( (1/N) * sum (A - Â)^2 )
 #### Taux de compression (CR)
 
 CR = (Nombre total de coefficients) / (Nombre de coefficients conservés)
+
 ---
 
 ##  Analyse des résultats
