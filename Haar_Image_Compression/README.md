@@ -88,18 +88,18 @@ Image fournie :
 
 ---
 
-###  Reconstruction
+### Reconstruction
 
 - Reconstruction de l’image compressée
 - Calcul des performances :
 
 #### Distorsion (RMSE)
 
-RMSE = sqrt( (1/N) * sum (A - Â)^2 )
+RMSE = sqrt( (1/N) * sum_{k=1..N} (A_k - Ahat_k)^2 )
 
 #### Taux de compression (CR)
 
-CR = (Nombre total de coefficients) / (Nombre de coefficients conservés)
+CR = (nombre total de coefficients) / (nombre de coefficients conservés)
 
 ---
 
