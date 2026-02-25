@@ -54,8 +54,6 @@ où \( H \) est la matrice de Haar construite pour une image 512×512.
 
 Image fournie :
 
-`buttress.jpg`
-
 <p align="center">
   <img src="buttress.jpg" width="500">
 </p>
