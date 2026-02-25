@@ -25,15 +25,17 @@ Le principe est de :
 
 La transformée de Haar repose sur deux filtres :
 
-- Filtre passe-bas :  
+- Filtre passe-bas :
+
 $$
 h = [0.5 \; 0.5]
 $$
 
-- Filtre passe-haut :  
-  \[
-  g = [0.5 \quad -0.5]
-  \]
+- Filtre passe-haut :
+
+$$
+g = [0.5 \; -0.5]
+$$
 
 La décomposition est effectuée successivement :
 
