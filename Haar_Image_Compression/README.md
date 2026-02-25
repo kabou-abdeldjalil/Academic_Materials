@@ -44,9 +44,9 @@ La décomposition est effectuée successivement :
 
 Pour une image \( A \), la décomposition sur un niveau s’écrit :
 
-\[
+$$
 B = H^T A H
-\]
+$$
 
 où \( H \) est la matrice de Haar construite pour une image 512×512.
 
